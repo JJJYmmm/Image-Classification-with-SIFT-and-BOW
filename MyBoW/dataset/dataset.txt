@@ -1,0 +1,9 @@
+### you can get dataset on https://figshare.com/articles/dataset/15-Scene_Image_Dataset/7007177
+### make sure the classes is in dataset folder
+### for example:
+### - dataset
+### -- 00
+### -- 01
+### -- 02
+### -- 03
+### -- ...
