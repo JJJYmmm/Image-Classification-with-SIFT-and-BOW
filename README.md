@@ -14,4 +14,4 @@ See **output.txt** for the results
 
 There is test data's confusion matrix.
 
-[confusion matrix](https://github.com/JJJYmmm/Image-Classification-with-SIFT-and-BOW/blob/master/MyBoW/confusion_matrix.png)
+![confusion matrix](https://github.com/JJJYmmm/Image-Classification-with-SIFT-and-BOW/blob/master/MyBoW/confusion_matrix.png)
